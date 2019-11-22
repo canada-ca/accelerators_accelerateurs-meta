@@ -1,5 +1,7 @@
 # accelerators_accelerateurs-meta
-A meta repo to provide details on the variety of accelerators, and provide global scoped documentation and resources from external sources. - Un méta-référentiel fournissant des détails sur la variété d'accélérateurs et fournissant une documentation globale ainsi que des ressources provenant de sources externes.
+A meta repo to provide details on the variety of accelerators, and provide global scoped documentation and resources from external sources.
+
+Un méta-référentiel fournissant des détails sur la variété d'accélérateurs et fournissant une documentation globale ainsi que des ressources provenant de sources externes.
 
 ## Azure
 
