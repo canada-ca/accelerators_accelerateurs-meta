@@ -18,3 +18,7 @@ https://github.com/canada-ca/accelerators_accelerateurs-aws
 ## IBM
 
 https://github.com/canada-ca/accelerators_accelerateurs-ibm
+
+# Blogs
+
+https://medium.com/core-technologies/gc-accelerators-6d3787269ebd
